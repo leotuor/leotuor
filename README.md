@@ -1,7 +1,5 @@
 <h3 align="center">Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasmado por tecnologia e desenvolvimento de aplicações web.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leotuor" alt="leotuor" /></a> </p>
-
 - 📫 Como me contatar **leo.ribeiro-pro@hotmail.com**
 
 <h3 align="center">Ou se conecte comigo:</h3>
