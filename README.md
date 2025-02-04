@@ -1,4 +1,3 @@
-<div style:"background: 'white'">
 <h3 align="center">Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasmado por tecnologia e desenvolvimento de aplicações web.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leotuor" alt="leotuor" /></a> </p>
@@ -16,4 +15,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leotuor&show_icons=true&locale=en" alt="leotuor" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leotuor&" alt="leotuor" /></p>
-</div>
