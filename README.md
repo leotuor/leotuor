@@ -1,3 +1,4 @@
+<div>
 <h3 align="center">Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasmado por tecnologia e desenvolvimento de aplicações web.</h3>
 
 - 📫 Como me contatar **leo.ribeiro-pro@hotmail.com**
@@ -14,3 +15,4 @@
   <img justify="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leotuor&show_icons=true&locale=en&layout=compact" alt="leotuor" />
   <img justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leotuor&" alt="leotuor" />
 </p>
+</div>
