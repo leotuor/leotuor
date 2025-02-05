@@ -1,6 +1,6 @@
 <h3 align="center">Bem-vindo ao meu perfil! Sou um desenvolvedor entusiasmado por tecnologia e desenvolvimento de aplicações web.</h3>
 
-- 📫 Como me contatar **leo.ribeiro-pro@hotmail.com**
+<h3 align="center">- 📫 Como me contatar **leo.ribeiro-pro@hotmail.com**</h3>
 
 <h3 align="center">Ou se conecte comigo:</h3>
 <p align="center">
