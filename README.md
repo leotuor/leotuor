@@ -12,5 +12,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leotuor&show_icons=true&locale=en&layout=compact" alt="leotuor" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=leotuor&" alt="leotuor" />
+  <img justify="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leotuor&" alt="leotuor" />
 </p>
