@@ -7,9 +7,9 @@
 ### 💻 Sobre mim
 Sou **Desenvolvedor de Software** e graduando em **Ciência da Computação**. Atualmente, atuo na **ZettaBrasil Sistemas de Gestão**, onde foco em criar soluções eficientes para sistemas ERP e automação de processos.
 
-- 🚀 Atualmente trabalhando com: **Laravel (Filament)**, **Vue.js** e ecossistemas **React**.
-- 🧠 No momento, estou aprofundando meus estudos em **IA aplicada à gestão de tarefas** e **análise de dados**.
-- 📍 Baseado em Maravilha, Santa Catarina.
+- 🚀 Atualmente trabalhando com: , **Vue.js** e ecossistemas **React**.
+- 🧠 No momento, estou aprofundando meus estudos em **desenvolvimento Backend** e **tarefas Assíncronas**.
+- 📍 Maravilha, Santa Catarina.
 
 ---
 
@@ -19,9 +19,8 @@ Sou **Desenvolvedor de Software** e graduando em **Ciência da Computação**. A
 | :--- | :--- |
 | **Frontend** | ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82) |
 | **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=nodes.js&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=flat&logo=Ionic&logoColor=white) |
 | **Banco de Dados** | ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) |
-| **Outros** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) |
+| **Outros** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=flat&logo=git&logoColor=white)
 
 ---
 
